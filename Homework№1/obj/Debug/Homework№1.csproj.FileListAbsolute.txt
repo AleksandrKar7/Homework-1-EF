@@ -1,0 +1,10 @@
+c:\users\bigpc\documents\visual studio 2015\Projects\Homework№1\Homework№1\bin\Debug\Homework№1.exe.config
+c:\users\bigpc\documents\visual studio 2015\Projects\Homework№1\Homework№1\obj\Debug\Homework№1.csprojResolveAssemblyReference.cache
+c:\users\bigpc\documents\visual studio 2015\Projects\Homework№1\Homework№1\bin\Debug\Homework№1.exe
+c:\users\bigpc\documents\visual studio 2015\Projects\Homework№1\Homework№1\bin\Debug\Homework№1.pdb
+c:\users\bigpc\documents\visual studio 2015\Projects\Homework№1\Homework№1\bin\Debug\EntityFramework.dll
+c:\users\bigpc\documents\visual studio 2015\Projects\Homework№1\Homework№1\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\bigpc\documents\visual studio 2015\Projects\Homework№1\Homework№1\bin\Debug\EntityFramework.xml
+c:\users\bigpc\documents\visual studio 2015\Projects\Homework№1\Homework№1\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\bigpc\documents\visual studio 2015\Projects\Homework№1\Homework№1\obj\Debug\Homework№1.exe
+c:\users\bigpc\documents\visual studio 2015\Projects\Homework№1\Homework№1\obj\Debug\Homework№1.pdb
